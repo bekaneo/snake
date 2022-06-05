@@ -7,5 +7,7 @@ pip install venv
 python -v venv venv
 . venv/bin/activate
 pip install < requirements.txt
+
+python3 snake.py
 ```
 ## Enjoy.
